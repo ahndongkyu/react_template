@@ -18,6 +18,7 @@
 <div align="center">
 <br />
 
+<<<<<<< HEAD
 </div>
 
 <details open="open">
@@ -29,3 +30,16 @@
 </details>
 
 ### test
+=======
+
+</div>
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [Setting](#Setting)
+  - [Built With](#built-with)
+
+
+</details>
+>>>>>>> 63c00af510961498303d9463a5e59cdbdc75c1c3
